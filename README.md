@@ -3,7 +3,7 @@
 
 •	Instalación y configuración.
 
-abc
+
 
 •	Uso del programa. 
 
