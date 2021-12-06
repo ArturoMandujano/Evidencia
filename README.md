@@ -1,5 +1,5 @@
-# Evidencia
-Documentación 
+# Documentación de la Evidencia
+
 
 ## Instalación y configuración
 La aplicación será totalmente portable, es decir, que se podrá ejecutar en cualquier sistema operativo que tenga instalado Java, para ello deberá ser configurada para compilarse como un archivo tipo FAT JAR y garantizar que todas las dependencias estarán incluidas.
