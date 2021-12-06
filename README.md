@@ -1,7 +1,6 @@
 # Evidencia
 Documentación 
-}
-Ambiente de desarrollo donde se realizará el programa.
+
 ## Instalación y configuración
 La aplicación será totalmente portable, es decir, que se podrá ejecutar en cualquier sistema operativo que tenga instalado Java, para ello deberá ser configurada para compilarse como un archivo tipo FAT JAR y garantizar que todas las dependencias estarán incluidas.
 La aplicación contará con el manejo correcto de recursos y excepciones, es decir, si ocurre una excepción, el programa no saldrá, sino que seguirá ejecutándose y mostrará el mensaje de error en la pantalla.
